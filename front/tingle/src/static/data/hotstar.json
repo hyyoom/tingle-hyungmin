@@ -1,0 +1,32 @@
+[
+    {
+        "id": "yoo",
+        "nickName": "미동생맥스",
+        "image": "/image/yoo.png"
+    },
+    {
+        "id": "jun",
+        "nickName": "준찬황",
+        "image": "/image/jun.png"
+    },
+    {
+        "id": "bin",
+        "nickName": "양의정수기",
+        "image": "/image/bin.png"
+    },
+    {
+        "id": "mo",
+        "nickName": "삼성모르가나",
+        "image": "/image/mo.png"
+    },
+    {
+        "id": "yoon",
+        "nickName": "윤황시진",
+        "image": "/image/yoon.png"
+    },
+    {
+        "id": "oh",
+        "nickName": "우금어",
+        "image": "/image/oh.png"
+    }
+]

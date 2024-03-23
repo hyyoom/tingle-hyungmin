@@ -1,0 +1,52 @@
+[
+    {
+        "id": "bin1",
+        "nickName": "정수빈",
+        "image": "/image/bin.png"
+    },
+    {
+        "id": "bin2",
+        "nickName": "정수빈",
+        "image": "/image/bin.png"
+    },
+    {
+        "id": "bin3",
+        "nickName": "정수빈",
+        "image": "/image/bin.png"
+    },
+    {
+        "id": "bin4",
+        "nickName": "정수빈",
+        "image": "/image/bin.png"
+    },
+    {
+        "id": "bin5",
+        "nickName": "정수빈",
+        "image": "/image/bin.png"
+    },
+    {
+        "id": "bin6",
+        "nickName": "정수빈",
+        "image": "/image/bin.png"
+    },
+    {
+        "id": "bin7",
+        "nickName": "정수빈",
+        "image": "/image/bin.png"
+    },
+    {
+        "id": "bin8",
+        "nickName": "정수빈",
+        "image": "/image/bin.png"
+    },
+    {
+        "id": "bin9",
+        "nickName": "정수빈",
+        "image": "/image/bin.png"
+    },
+    {
+        "id": "bin10",
+        "nickName": "정수빈",
+        "image": "/image/bin.png"
+    }
+]
